@@ -1,0 +1,25 @@
+{
+  "name": "web.aproject.com",
+  "version": "1.0.0",
+  "description": "Web version of app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrin/web.aproject.com.git"
+  },
+  "author": "rinat@gabidullin.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrin/web.aproject.com/issues"
+  },
+  "homepage": "https://github.com/gabrin/web.aproject.com#readme",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babel-loader": "^8.0.2",
+    "webpack": "^4.17.2"
+  }
+}
